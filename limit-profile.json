@@ -1,7 +1,7 @@
 {
   "version": "remote-1",
   "targetPackages": ["ru.yandex.taximeter"],
-  "downloadBytesPerSec": 100,
-  "uploadBytesPerSec": 100,
+  "downloadBytesPerSec": 1000,
+  "uploadBytesPerSec": 1000,
   "durationSec": 25
 }
