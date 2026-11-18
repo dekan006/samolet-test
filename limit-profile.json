@@ -1,6 +1,6 @@
 {
   "version": "remote-1",
-  "targetPackages": ["ru.yandex.taximeter"],
+  "targetPackages": ["by.blitz.taxidemand"],
   "downloadBytesPerSec": 500,
   "uploadBytesPerSec": 100,
   "durationSec": 25
