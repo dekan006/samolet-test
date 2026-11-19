@@ -2,6 +2,6 @@
   "version": "1",
   "targetPackages": ["ru.yandex.taximeter","ru.yandex.taximeter.beta"],
   "downloadBytesPerSec": 500,
-  "uploadBytesPerSec": 100,
+  "uploadBytesPerSec": 20,
   "durationSec": 25
 }
